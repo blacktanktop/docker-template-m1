@@ -1,0 +1,4 @@
+pillow
+click==7.1.2
+rdkit-pypi==2021.9.3
+QEPPI==0.1.11
